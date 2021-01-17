@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ewoka20\Documents\GitHub\codelab-ii-ewoka20\Breif-1-Football-Draw\Football_Draw\Football_Draw\Source.cpp(194,12): warning C4101: 'save': unreferenced local variable
+C:\Users\Ewoka20\Documents\GitHub\codelab-ii-ewoka20\Breif-1-Football-Draw\Football_Draw\Football_Draw\Source.cpp(194,6): warning C4101: 'goal': unreferenced local variable
+  Football_Draw.vcxproj -> C:\Users\Ewoka20\Documents\GitHub\codelab-ii-ewoka20\Breif-1-Football-Draw\Football_Draw\Debug\Football_Draw.exe
